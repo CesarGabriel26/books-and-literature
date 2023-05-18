@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+
+    /* ?:> Text */
+    --Text_Normal: #1D98DB;
+    --Text_Hover: #3ddb1d;
+    
+
+    /* !:> Header */
+
+    --Header_BG: ghostwhite;
+
+    /** :> Body */
+    
+    --Body_BG: rgb(134, 134, 134);
+
+
+    
+
+}
